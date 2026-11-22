@@ -1,0 +1,9 @@
+*.pt
+*.pth
+*.zip
+data/
+results/*.pt
+.ipynb_checkpoints/
+__pycache__/
+.env
+kaggle.json
